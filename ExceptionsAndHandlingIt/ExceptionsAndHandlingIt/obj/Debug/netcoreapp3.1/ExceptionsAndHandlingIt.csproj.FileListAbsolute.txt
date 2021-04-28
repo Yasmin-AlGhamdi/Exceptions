@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\bin\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.exe
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\bin\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.deps.json
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\bin\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.runtimeconfig.json
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\bin\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\bin\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.dll
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\bin\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.pdb
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\obj\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\obj\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\obj\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\obj\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\obj\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.dll
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\obj\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.pdb
+C:\Users\Yasmin\source\repos\ExceptionsAndHandlingIt\ExceptionsAndHandlingIt\obj\Debug\netcoreapp3.1\ExceptionsAndHandlingIt.genruntimeconfig.cache
